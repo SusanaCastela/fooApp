@@ -2,7 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c6cb807-f8a0-4540-b27b-ee30345228c6" name="Default Changelist" comment="remove">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fooapp/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fooapp/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fooapp/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fooapp/filters.py" beforeDir="false" afterPath="$PROJECT_DIR$/filters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fooapp/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fooapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fooapp/static/log.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/log.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fooapp/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fooapp/templates/error/not_found.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/error/not_found.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fooapp/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fooapp/templates/product/common.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/product/common.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fooapp/templates/product/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/product/detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fooapp/templates/product/edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/product/edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fooapp/templates/product/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/product/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fooapp/templates/user/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/user/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +33,7 @@
         <entry file="file://$PROJECT_DIR$/Procfile">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="34" selection-start-column="34" selection-end-column="34" />
+              <caret column="21" selection-start-column="21" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -104,13 +121,14 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Susana\Documents\Master\Ads\WebApp\app\templates" />
-      <recent name="C:\Users\Susana\Documents\Master\Ads\WebApp\app\templates\error" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Susana\Documents\Master\Ads\WebApp\app\templates\product" />
       <recent name="C:\Users\Susana\Documents\Master\Ads\WebApp\app\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Susana\Documents\Master\Ads\WebApp" />
+      <recent name="C:\Users\Susana\Documents\Master\Ads\WebApp\app\templates" />
+      <recent name="C:\Users\Susana\Documents\Master\Ads\WebApp\app\templates\error" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -287,7 +305,7 @@
     <entry file="file://$PROJECT_DIR$/Procfile">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="34" selection-start-column="34" selection-end-column="34" />
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
         </state>
       </provider>
     </entry>
